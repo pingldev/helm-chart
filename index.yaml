@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   pingl-app-helm:
   - apiVersion: v1
-    created: 2018-08-16T00:54:21.2409527+02:00
+    created: 2018-08-20T21:01:40.1277319+02:00
     description: GitLab's Auto-deploy Helm Chart
-    digest: 5781a7a2b95b1ddb23a3a34d442f3a8ab7e939765d5f387e3a84984101c9ec57
+    digest: c0acea5ac29846d866c64e044865b3b59017730508133a1ffaba82716bba6da9
     icon: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
     name: pingl-app-helm
     urls:
-    - https://pingldev.github.io/helm-chart/pingl-app-helm-0.0.2.tgz
-    version: 0.0.2
-generated: 2018-08-16T00:54:21.240456+02:00
+    - https://pingldev.github.io/helm-chart/pingl-app-helm-0.0.3.tgz
+    version: 0.0.3
+generated: 2018-08-20T21:01:40.1237776+02:00
